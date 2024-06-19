@@ -1,1 +1,1 @@
-<img src={https://static.wikia.nocookie.net/fortnite/images/e/e6/Renegade_Raider_%28New%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20200227191921} alt={https://static.wikia.nocookie.net/fortnite/images/e/e6/Renegade_Raider_%28New%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20200227191921} />
+
